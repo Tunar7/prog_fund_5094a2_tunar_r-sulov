@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define CONSTANT 10
+#define 10
 int main() {
     int a = 5;
     int b = 3;
