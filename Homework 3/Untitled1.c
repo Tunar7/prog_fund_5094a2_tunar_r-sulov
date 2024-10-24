@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define 10
+#define const int z=10;
 int main() {
     int a = 5;
     int b = 3;
